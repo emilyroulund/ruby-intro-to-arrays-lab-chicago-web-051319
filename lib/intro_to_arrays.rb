@@ -1,5 +1,7 @@
 def instantiate_new_array
-return []
+  return []
 end
 
-array_with_two_elements
+def array_with_two_elements
+ return  [1, 2]
+end 
